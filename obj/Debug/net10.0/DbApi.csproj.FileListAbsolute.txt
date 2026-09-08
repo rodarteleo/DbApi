@@ -31,3 +31,6 @@ C:\dev\DbApi\obj\Debug\net10.0\refint\DbApi.dll
 C:\dev\DbApi\obj\Debug\net10.0\DbApi.pdb
 C:\dev\DbApi\obj\Debug\net10.0\DbApi.genruntimeconfig.cache
 C:\dev\DbApi\obj\Debug\net10.0\ref\DbApi.dll
+C:\dev\DbApi\obj\Debug\net10.0\DbApi.sourcelink.json
+C:\dev\DbApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\DbApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

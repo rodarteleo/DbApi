@@ -8,6 +8,7 @@ namespace DbApi.Controllers;
 public class HealthCheckController : ControllerBase
 {
     [HttpGet]
+    [Route("")]
     public IActionResult HealthCheck()
     {
         // return StatusCode(200, "Healthy");
